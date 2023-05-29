@@ -22,8 +22,8 @@ Release:        0
 Summary:        X11 ICC Daemon
 License:        GPL-3.0-or-later
 Group:          System/X11/Utilities
-URL:            https://github.com/agalakhov/xiccd
-Source:         https://github.com/agalakhov/%{name}/archive/v%{version}.tar.gz#/%{name}-%{version}.tar.gz
+URL:            https://github.com/securerootd/xiccd
+Source:         https://github.com/securerootd/%{name}/archive/v%{version}.tar.gz#/%{name}-%{version}.tar.gz
 BuildRequires:  autoconf
 BuildRequires:  automake
 BuildRequires:  pkgconfig
